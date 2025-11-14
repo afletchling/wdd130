@@ -1,6 +1,6 @@
 :root {
     --primary-color: #3455c1;
-    --secondary-color: #b4c18b;
+    --secondary-color: #7c8561;
     --accent1-color: #1a3377;
     --accent2-color: #dbab3d;
     --heading-font: "Comic Sans MS", Arial, sans-serif;
@@ -21,6 +21,10 @@ body {
 header, main, footer {
     width: 840px;
     margin: 0 auto;
+}
+
+header {
+    color: var(--accent2-color);
 }
 
 h1, h2 {
