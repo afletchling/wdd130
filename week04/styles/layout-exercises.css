@@ -51,7 +51,7 @@ div {
 .container3 {
     /* write declarations here */
     display: grid;
-    grid-template-columns: repeat(1fr, 3);
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .columns-3 {
