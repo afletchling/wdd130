@@ -42,8 +42,9 @@ header img {
     height: auto;
 }
 
-nav li {
-    flex: 1 1 auto;
+nav {
+    display: flex;
+    justify-content: center;
 }
 
 nav a {
