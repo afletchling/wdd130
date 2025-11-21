@@ -23,6 +23,10 @@ header, main, footer {
     margin: 0 auto;
 }
 
+main {
+    background-color: var(--accent1-color);
+}
+
 header {
     display: grid;
     grid-template-columns: 10% 70%;
