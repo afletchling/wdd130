@@ -212,6 +212,7 @@ footer p {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 0fr 1fr;
     background-color: white;
+    color: black;
 }
 
 #contact-section h1 {
